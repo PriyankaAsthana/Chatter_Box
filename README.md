@@ -1,10 +1,11 @@
+<!-- Pretty Gradient SVG Banner (working demo link) -->
 <p align="center">
-  <img src="https://raw.githubusercontent.com/PriyankaAsthana/portfolio-assets/main/header-gradient.svg" alt="Personal gradient banner" width="90%" />
+  <img src="https://svgur.com/i/zyG.svg" alt="Animated Gradient Header" width="90%" />
 </p>
 
-<!-- SVG Wavy Name Header (pick one or stack multiple!) -->
+<!-- Animated Name Banner (using readme-typing-svg, which works for everyone) -->
 <p align="center">
-  <img src="https://raw.githubusercontent.com/PriyankaAsthana/portfolio-assets/main/wavy-name.svg" alt="Priyanka Asthana - Animated wavy header" width="70%" />
+  <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=35&duration=3500&pause=1100&color=E0007A&center=true&vCenter=true&width=650&lines=Priyanka+Asthana;AI+Engineer+%7C+Fullstack+Developer" alt="Priyanka Asthana Animated Typing" width="80%" />
 </p>
 <!-- If you want more, you can make your own or request SVG assets for custom colors and text! -->
 
