@@ -30,9 +30,7 @@
   <br/>
   👋 About
 </h2>
-<p align="center">
-  <img src="https://avatars.githubusercontent.com/u/131348227?v=4" width="122" style="border-radius:14px" alt="Priyanka's Avatar" />
-</p>
+
   
 <p align="center">
 BTech (Hons) CSE • Minor: Robotics <br />
