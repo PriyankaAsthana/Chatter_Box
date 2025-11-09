@@ -1,6 +1,3 @@
-<p align="center">
-  <img src="https://raw.githubusercontent.com/octocat/Spoon-Knife/master/banner.svg" alt="Demo Banner" width="90%" />
-</p>
 
 <!-- Animated Name Banner (using readme-typing-svg, which works for everyone) -->
 <p align="center">
@@ -25,7 +22,8 @@
 
 <!-- About with custom accent separator -->
 <h2 align="center">
-  <img src="https://raw.githubusercontent.com/PriyankaAsthana/portfolio-assets/main/section-underline.svg" width="280" alt="accent-line"/>
+  <img src="https://github.com/PriyankaAsthana/Personal-Portfolio/raw/main/assets/section-underline.svg" width="280" alt="accent-line"/>
+</h2>
   <br/>
   👋 About
 </h2>
