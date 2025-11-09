@@ -1,157 +1,101 @@
-
-<!-- Animated Name Banner (using readme-typing-svg, which works for everyone) -->
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=35&duration=3500&pause=1100&color=E0007A&center=true&vCenter=true&width=650&lines=Priyanka+Asthana;AI+Engineer+%7C+Fullstack+Developer" alt="Priyanka Asthana Animated Typing" width="80%" />
+  <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=35&duration=3500&pause=1100&color=E0007A&center=true&vCenter=true&width=650&lines=Priyanka+Asthana;AI+Engineer+%7C+Fullstack+Developer" alt="Priyanka Asthana Animated Typing" width="100%" />
 </p>
-<!-- If you want more, you can make your own or request SVG assets for custom colors and text! -->
 
-<!-- Portfolio-style intro card with icons -->
 <p align="center">
-  <a href="https://github.com/PriyankaAsthana"><img src="https://img.shields.io/badge/GitHub-PriyankaAsthana-24292F?style=for-the-badge&logo=github" /></a>
+  <a href="https://github.com/PriyankaAsthana" target="_blank"><img src="https://img.shields.io/badge/GitHub-PriyankaAsthana-24292F?style=for-the-badge&logo=github" alt="GitHub Profile" /></a>
   &nbsp;
-  <a href="https://linkedin.com/in/priyankaasthana"><img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin" /></a>
+  <a href="https://linkedin.com/in/priyankaasthana" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin" alt="LinkedIn Profile" /></a>
   &nbsp;
-  <a href="mailto:priyanka.asthana@gmail.com"><img src="https://img.shields.io/badge/Email-Get%20in%20Touch-EA4335?style=for-the-badge&logo=gmail" /></a>
+  <a href="mailto:priyanka.asthana@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Email-Get%20in%20Touch-D14836?style=for-the-badge&logo=gmail" alt="Email Address" /></a>
   &nbsp;
-  <a href="https://drive.google.com/file/d/1JpRiPZnSTuZ-Resume-Link-for-Priyanka/view?usp=sharing"><img src="https://img.shields.io/badge/Resume-Download-orange?style=for-the-badge&logo=googledrive" /></a>
+  <a href="https://docs.google.com/document/d/1JpRiPZnSTuZ-YOUR-ACTUAL-RESUME-ID/edit?usp=sharing" target="_blank"><img src="https://img.shields.io/badge/Resume-Download-F4B400?style=for-the-badge&logo=googledrive" alt="Resume Download" /></a>
   <br/>
-  <img src="https://img.shields.io/badge/Status-Open%20to%20Internships-27AE60?style=for-the-badge&logo=OpenSourceInitiative" />
+  <img src="https://img.shields.io/badge/Status-Open%20to%20Internships-27AE60?style=for-the-badge&logo=OpenSourceInitiative" alt="Internship Status" />
 </p>
 
 ---
 
-<!-- About with custom accent separator -->
-<h2 align="center">
-  <img src="https://github.com/PriyankaAsthana/Personal-Portfolio/raw/main/assets/section-underline.svg" width="280" alt="accent-line"/>
-</h2>
-  <br/>
-  👋 About
-</h2>
+<h2 align="center">👋 About Me</h2>
 
-  
 <p align="center">
-BTech (Hons) CSE • Minor: Robotics <br />
-AI Engineer • Fullstack Software Developer <br />
-I craft real-world solutions with MERN, applied AI, and creative dashboards.
+  <kbd>BTech (Hons) CSE</kbd> • <kbd>Minor: Robotics</kbd> <br />
+  A passionate <strong>AI Engineer</strong> and <strong>Fullstack Software Developer</strong>. <br />
+  I craft real-world solutions with <strong>MERN</strong>, applied <strong>AI/ML</strong>, and creative dashboards.
 </p>
 
 ---
 
 <h2 align="center">
-  <img src="https://raw.githubusercontent.com/PriyankaAsthana/portfolio-assets/main/section-underline.svg" width="280" />
-  <br/>
   🛠️ Tech Stack
 </h2>
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=react,nodejs,express,mongodb,bootstrap,tailwind,python,pytorch,tensorflow,git,docker,java,postman" />
+  <img src="https://skillicons.dev/icons?i=react,nodejs,express,mongodb,tailwind,python,pytorch,tensorflow,git,docker,java,postman" alt="Tech Stack Icons" />
 </p>
 <p align="center">
-  <b>Frontend</b> | React, Tailwind, Bootstrap, GSAP, SVG <br/>
-  <b>Backend</b> | Node.js, Express, MongoDB, SQL <br/>
-  <b>AI/ML</b> | Python, PyTorch, TensorFlow, scikit-learn <br/>
-  <b>Core CS</b> | DSA, Algorithms, OS, OOP (Java) <br/>
-  <b>DevOps</b> | Git, Docker, CI/CD
+  | <strong>Frontend</strong>: React, Tailwind, Bootstrap, GSAP <br/>
+  | <strong>Backend/DB</strong>: Node.js, Express, MongoDB, SQL <br/>
+  | <strong>AI/ML</strong>: Python, PyTorch, TensorFlow, scikit-learn <br/>
+  | <strong>Core CS</strong>: DSA, Algorithms, OOP (Java) <br/>
+  | <strong>DevOps</strong>: Git, Docker, CI/CD
 </p>
 
 ---
 
 <h2 align="center">
-  <img src="https://raw.githubusercontent.com/PriyankaAsthana/portfolio-assets/main/section-underline.svg" width="280" />
-  <br/>
   🚀 Featured Projects
 </h2>
 
-<table>
-  <tr>
-    <td width="50%">
-      <b>🩸 <a href="https://github.com/PriyankaAsthana/rakt">RAKT</a></b>
-      <br/>
-      <i>Blood Bank Management System (MERN + GeoAI)</i><br/>
-      Token & GPS-based donor flow, geospatial AI, and ~30% time reduction for allocations.<br/>
-      <b>Tech:</b> React, Node, MongoDB, Turf.js, PyTorch
-    </td>
-    <td width="50%">
-      <b>🧠 <a href="https://github.com/PriyankaAsthana/diagnose-ai">DiagnoseAI</a></b>
-      <br/>
-      <i>AI Medical Diagnosis Assistant</i><br/>
-      Conversational symptom intake, ranked diagnosis pipeline, modular and safe.<br/>
-      <b>Tech:</b> Python, Flask, PyTorch, NLP, scikit-learn
-    </td>
-  </tr>
-  <tr>
-    <td width="50%">
-      <b>💬 <a href="https://github.com/PriyankaAsthana/chatterbox">ChatterBox</a></b>
-      <br/>
-      <i>Secure Real-Time Chat App (MERN)</i><br/>
-      Encrypted messaging, auth, responsive UI, presence indicators.<br/>
-      <b>Tech:</b> Socket.io, React, Node.js
-    </td>
-    <td width="50%">
-      <!-- Add more projects as you like or request a slick GIF asset! -->
-      &nbsp;
-    </td>
-  </tr>
-</table>
-<p align="center">
-  <i>Want animated GIFs for project previews? Request them & I'll provide ready-to-paste assets!</i>
-</p>
+### 🩸 RAKT: Blood Bank Management System (MERN + GeoAI)
+> Token & GPS-based donor flow, geospatial AI for optimized allocations, reducing time by ~30%.
+> <br/>**Tech:** React, Node, MongoDB, Turf.js, PyTorch
+> <br/>[**View Repository**](https://github.com/PriyankaAsthana/rakt)
+
+### 🧠 DiagnoseAI: AI Medical Diagnosis Assistant
+> Conversational symptom intake, ranked diagnosis pipeline, focused on modularity and safety.
+> <br/>**Tech:** Python, Flask, PyTorch, NLP, scikit-learn
+> <br/>[**View Repository**](https://github.com/PriyankaAsthana/diagnose-ai)
+
+### 💬 ChatterBox: Secure Real-Time Chat App (MERN)
+> Encrypted messaging with Socket.io, user authentication, responsive UI, and presence indicators.
+> <br/>**Tech:** Socket.io, React, Node.js
+> <br/>[**View Repository**](https://github.com/PriyankaAsthana/chatterbox)
 
 ---
 
 <h2 align="center">
-  <img src="https://raw.githubusercontent.com/PriyankaAsthana/portfolio-assets/main/section-underline.svg" width="280" />
-  <br/>
-  💼 Experience
+  💼 Experience & Growth
 </h2>
 
 <ul>
-  <li><b>ProdigyInfotech</b> – Backend Developer<br/>Optimized backend queries; latency down ~30%.</li>
-  <li><b>Edunet</b> – AI Intern<br/>Built models and chatbots for student performance insights.</li>
-  <li><b>BharatIntern</b> – Web Developer<br/>REST APIs, responsive pages, asset optimization benchmarked at ~25% faster loads.</li>
+  <li><strong>ProdigyInfotech</strong> – Backend Developer<br/>Optimized database queries, reducing backend **latency by ~30%**.</li>
+  <li><strong>Edunet</strong> – AI Intern<br/>Built ML models and chatbots for enhanced student performance insights.</li>
+  <li><strong>BharatIntern</strong> – Web Developer<br/>Developed REST APIs and responsive pages, achieving **~25% faster load times** through asset optimization.</li>
 </ul>
+
+### 🧪 Research & Certifications
+* **RAKT: A Token + Location-Based Blood Bank Management System** — Manuscript under review (2025)
+* Completed Job Simulations: JPMorgan Chase (SE), Walmart (Global Tech), Accenture (SE)
+* **CS50x** – Completed
 
 ---
 
 <h2 align="center">
-  <img src="https://raw.githubusercontent.com/PriyankaAsthana/portfolio-assets/main/section-underline.svg" width="280" />
-  <br/>
-  🧪 Research & Certifications
-</h2>
-
-<ul>
-  <li>
-    <b>RAKT: A Token + Location-Based Blood Bank Management System</b> — Manuscript under review (2025)
-  </li>
-  <li>JPMorgan Chase – SE Job Simulation</li>
-  <li>Walmart – Global Tech Internship</li>
-  <li>Accenture – SE Job Simulation</li>
-  <li>CS50x – Completed</li>
-</ul>
-
----
-
-<h2 align="center">
-  <img src="https://raw.githubusercontent.com/PriyankaAsthana/portfolio-assets/main/section-underline.svg" width="280" />
-  <br/>
   📊 GitHub Analytics
 </h2>
-<!-- Polished, animated SVG dashboard – see repo for SVG customization! -->
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=PriyankaAsthana&count_private=true&show_icons=true&theme=radical&hide_title=false" width="49%" alt="GitHub Stats" />
-  <img src="https://github-readme-streak-stats.demolab.com/?user=PriyankaAsthana&theme=radical" width="49%" alt="Streak Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=PriyankaAsthana&count_private=true&show_icons=true&theme=radical&hide_title=true&hide_border=true" width="48%" alt="GitHub Stats" />
+  &nbsp;
+  <img src="https://github-readme-streak-stats.demolab.com/?user=PriyankaAsthana&theme=radical&hide_border=true" width="48%" alt="Streak Stats" />
   <br/>
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=PriyankaAsthana&theme=radical" width="70%" />
-  <br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=PriyankaAsthana&layout=compact&langs_count=8&theme=radical" width="40%" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=PriyankaAsthana&layout=compact&langs_count=8&theme=radical&hide_border=true" width="40%" alt="Top Languages" />
 </p>
 
 ---
 
 <h2 align="center">
-  <img src="https://raw.githubusercontent.com/PriyankaAsthana/portfolio-assets/main/section-underline.svg" width="280" />
-  <br/>
-  📫 Connect & Links
+  📫 Connect with Me
 </h2>
 <p align="center">
   <a href="https://linkedin.com/in/priyankaasthana" target="_blank">LinkedIn</a> •
