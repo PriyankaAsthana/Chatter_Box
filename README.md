@@ -1,138 +1,143 @@
-<!-- ──────────────────────────────── GRID ANIMATION HEADER ──────────────────────────────── -->
+<!-- Replace placeholders: YOUR_GITHUB_USERNAME, LINKEDIN_URL, YOUR_EMAIL, RESUME_URL -->
 
+<!-- Animated typed headline -->
 <p align="center">
-  <img src="https://raw.githubusercontent.com/roshanlam/roshanlam/main/snake.svg" alt="snake animation">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&duration=3000&pause=1000&color=6A5ACD&center=true&vCenter=true&width=720&lines=Harshita+Kushwaha;AI+Engineer+%7C+Software+Developer;MERN+%2B+DSA+%2B+Robotics" alt="typing" />
 </p>
 
-<h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=28&duration=3500&pause=800&color=6A5ACD&center=true&vCenter=true&width=600&lines=Harshita+Kushwaha;AI+Engineer+%7C+Software+Developer;MERN+%2B+DSA+%2B+Robotics;Building+Systems+That+Scale" />
-</h1>
-
 <p align="center">
-  <img src="https://github-widgetbox.vercel.app/api/profile?username=YOUR_USERNAME&data=followers,repositories,stars,commits&theme=radical">
-</p>
-
----
-
-<!-- ──────────────────────────────── ABOUT SECTION ──────────────────────────────── -->
-
-<h2 align="center">⚡ About Me</h2>
-
-<p align="center">
-I'm a <b>BTech (Hons) CSE + Robotics</b> student who doesn't just "learn tech" — I engineer it.  
-From intelligent automation systems to real-time MERN apps, I obsess over building fast, scalable and clean solutions.  
-I treat development like problem-solving, not checkbox coding.
+  <!-- Minimal profile banner -->
+  <img src="https://img.shields.io/badge/Status-Open%20to%20Internships-00BF6F?style=for-the-badge&logo=interest" alt="open to internships" />
+  &nbsp;
+  <a href="https://github.com/YOUR_GITHUB_USERNAME"><img src="https://img.shields.io/badge/GitHub-Harshita-black?style=for-the-badge&logo=github" alt="github" /></a>
+  &nbsp;
+  <a href="LINKEDIN_URL"><img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin" alt="linkedin" /></a>
+  &nbsp;
+  <a href="mailto:YOUR_EMAIL"><img src="https://img.shields.io/badge/Email-Say%20Hi!-EA4335?style=for-the-badge&logo=gmail" alt="email" /></a>
 </p>
 
 ---
 
-<!-- ──────────────────────────────── TECH STACK (ICON WALL) ──────────────────────────────── -->
+<!-- Two-column top section -->
+<table width="100%">
+  <tr>
+    <td width="58%" valign="top">
 
-<h2 align="center">🛠 Tech Arsenal</h2>
+### 🔎 Quick Pitch
+I am a BTech (Hons) CSE student with a minor in Robotics. I build scalable, production-minded systems using MERN and applied AI. I care about performance, clean architecture, and engineering that actually solves user problems.
+
+### 💡 What I do
+- Build full-stack web apps (React, Node, Express, MongoDB)  
+- Ship ML / AI prototypes and integrate them into products (PyTorch / TensorFlow / scikit-learn)  
+- Design data pipelines & optimization for real-time workflows
+
+### 🧰 Core skills
+- **Frontend:** React, Tailwind, Bootstrap, GSAP, responsive UI  
+- **Backend:** Node.js, Express, REST APIs, MongoDB, SQL basics  
+- **ML/AI:** Python, Pandas, PyTorch, TensorFlow, model evaluation & pipelines  
+- **CS fundamentals:** Java (OOPs, DSA), Algorithms, OS, System design basics  
+- **Tools:** Git, Postman, Docker basics, CI/CD concepts
+
+    </td>
+    <td width="42%" valign="top" style="text-align:center">
+
+<!-- Profile card -->
+<p align="center">
+  <img src="https://avatars.githubusercontent.com/u/583231?v=4" width="160" style="border-radius:12px" alt="avatar" />
+</p>
+
+**Harshita Kushwaha**  
+BTech (Hons) CSE • Minor: Robotics  
+[Resume]({RESUME_URL}) • [Portfolio](https://github.com/YOUR_GITHUB_USERNAME)
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,express,mongodb,bootstrap,tailwind,github,git,postman,linux,vscode,python,tensorflow,pytorch,java,mysql&theme=light" />
+  <img src="https://img.shields.io/badge/Experience-ProdigyInfotech%20%7C%20Edunet%20%7C%20BharatIntern-4C4CFF?style=flat-square" alt="experience" />
+  <img src="https://img.shields.io/badge/Availability-Internship%20%2F%20Part-time-00BFFF?style=flat-square" alt="availability" />
+</p>
+
+    </td>
+  </tr>
+</table>
+
+---
+
+## 🚀 Selected Projects
+
+### 🩸 RAKT — Blood Bank Management System (MERN + GeoAI)  
+**Period:** Dec 2024 — Nov 2025  
+- Token + GPS-based donor flow; booking, tokens & allocations.  
+- Integrated geospatial AI for donor-to-hospital routing → **~30% allocation time reduction**.  
+**Repo:** `github.com/YOUR_GITHUB_USERNAME/rakt` • **Tech:** React, Node, MongoDB, Turf.js (geo), PyTorch (AI)
+
+---
+
+### 🧠 DiagnoseAI — AI Medical Diagnosis Assistant  
+**Period:** Apr 2025 — Nov 2025  
+- Interactive assistant: symptom intake → ranked probable diagnoses + precautions.  
+- Pipeline for data ingestion, preprocessing, model inference and safety checks.  
+**Repo:** `github.com/YOUR_GITHUB_USERNAME/diagnose-ai` • **Tech:** Python, Flask, PyTorch, NLP
+
+---
+
+### 💬 ChatterBox — Secure Real-time Chat (MERN)  
+**Period:** Jan 2025 — Mar 2025  
+- Real-time messaging, encrypted sessions, responsive UI.  
+- Authentication, conversation threads, presence indicators.  
+**Repo:** `github.com/YOUR_GITHUB_USERNAME/chatterbox` • **Tech:** Socket.io, React, Node
+
+---
+
+## 💼 Experience (concise)
+
+- **ProdigyInfotech** — Software Developer  
+  - Optimized backend & DB queries, improved throughput and latency (≈**30%** speedup).
+
+- **Edunet** — AI Intern  
+  - Built prediction models for student performance; integrated AI chatbots for guidance systems.
+
+- **BharatIntern** — Web Developer  
+  - Responsive pages + REST APIs; caching & asset optimization → **25%** faster loads.
+
+---
+
+## 🧪 Research & Papers
+- **RAKT: A Token + Location-Based Blood Bank Management System** — *Manuscript under review (2025)*
+
+---
+
+## 🧾 Virtual Internships & Certifications
+- JPMorgan Chase — Software Engineering Job Simulation  
+- Walmart — Global Tech SE Virtual Experience  
+- Accenture — Software Engineering Job Simulation  
+- CS50x — Completed (Certificate)
+
+---
+
+## 📈 GitHub Stats
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&count_private=true&show_icons=true&theme=radical" width="48%" alt="github stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_GITHUB_USERNAME&theme=radical" width="48%" alt="streak" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=YOUR_GITHUB_USERNAME&layout=compact&theme=radical" width="40%" alt="top langs" />
 </p>
 
 ---
 
-<!-- ──────────────────────────────── EXPERIENCE SECTION ──────────────────────────────── -->
-
-<h2 align="center">💼 Experience</h2>
-
-### ⚙️ Prodigy Infotech — Software Developer
-- Optimized queries + logic → **30% faster performance**
-- Built scalable components for large apps
-
-### 🧠 Edunet — AI Intern  
-- ML models predicting academic performance  
-- AI chatbot pipeline integration for automated assistance  
-
-### 🌐 BharatIntern — Web Developer  
-- Responsive UI/UX → 25% faster load-times  
-- API-driven modular frontend architecture
-
----
-
-<!-- ──────────────────────────────── PROJECT SHOWCASE WITH BADGES ──────────────────────────────── -->
-
-<h2 align="center">🚀 Flagship Projects</h2>
-
----
-
-### 🩸 RAKT — Blood Bank Management (AI + MERN + GPS)
-![Tech](https://img.shields.io/badge/Stack-MERN%20%7C%20GeoAI-blueviolet?style=for-the-badge)
-
-- Token system + GPS allocation  
-- Geospatial AI → **30% faster donor routing**  
-
----
-
-### 🧠 DiagnoseAI — Intelligent Medical Assistant  
-![Tech](https://img.shields.io/badge/AI-Healthcare-teal?style=for-the-badge)
-
-- ML-based symptom-to-diagnosis analysis  
-- Recommender + safety checks  
-
----
-
-### 🔐 ChatterBox — Secure Real-Time Chat  
-![Tech](https://img.shields.io/badge/Stack-MERN-orange?style=for-the-badge)
-
-- Live messaging + encrypted threads  
-- Clean UI + fast backend
-
----
-
-<!-- ──────────────────────────────── ANIMATED STATS SECTION ──────────────────────────────── -->
-
-<h2 align="center">📊 GitHub Intelligence Dashboard</h2>
-
+## 📫 Contact & Links
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=midnight-purple" width="48%">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=YOUR_USERNAME&theme=midnight-purple" width="48%">
-</p>
-
-<p align="center">
-  <img src="https://github-readme-ranking.vercel.app/api/rank?username=YOUR_USERNAME">
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=midnight-purple" width="40%">
+  <a href="LINKEDIN_URL" target="_blank">LinkedIn</a> •
+  <a href="https://github.com/YOUR_GITHUB_USERNAME" target="_blank">GitHub</a> •
+  <a href="mailto:YOUR_EMAIL">Email</a>
 </p>
 
 ---
 
-<!-- ──────────────────────────────── RESEARCH SECTION ──────────────────────────────── -->
+## ✨ Want this even slicker?
+I can:
+- Add a custom SVG header (parallax/gradient) that matches your portfolio colors  
+- Insert animated project GIF previews (hosted in repo) and horizontal project card slider  
+- Replace GitHub-stats widgets with a polished SVG "dashboard" I design for you  
 
-<h2 align="center">📜 Research</h2>
-
-- **RAKT: A Token + Location-Based Blood Bank System**  
-(Under review, 2025)
-
----
-
-<!-- ──────────────────────────────── VIRTUAL INTERNSHIPS SECTION ──────────────────────────────── -->
-
-<h2 align="center">🎓 Virtual Experiences</h2>
-
-- JPMorgan Chase • SE Simulation  
-- Walmart Global Tech • Virtual SE Experience  
-- Accenture • AI & SE Simulation  
-
----
-
-<!-- ──────────────────────────────── FOOTER ANIMATION ──────────────────────────────── -->
-
-<h2 align="center">🌐 Connect With Me</h2>
-
-<p align="center">
-  <a href="LINKEDIN_URL"><img src="https://skillicons.dev/icons?i=linkedin"/></a>
-  <a href="mailto:YOUR_EMAIL"><img src="https://skillicons.dev/icons?i=gmail"/></a>
-  <a href="https://github.com/YOUR_USERNAME"><img src="https://skillicons.dev/icons?i=github"/></a>
-</p>
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/line.gif" width="100%">
-</p>
-
+Tell me which of those you want next and I’ll produce the code + the SVG/GIF assets ready-to-paste.
