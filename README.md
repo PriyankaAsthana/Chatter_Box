@@ -1,14 +1,6 @@
-<!-- Pretty Gradient SVG Banner (working demo link) -->
-<svg width="100%" height="120" viewBox="0 0 1000 120" xmlns="http://www.w3.org/2000/svg" preserveAspectRatio="none">
-  <defs>
-    <linearGradient id="g1" x1="0%" y1="60%" x2="100%" y2="60%">
-      <stop offset="0%" stop-color="#D4145A" />
-      <stop offset="50%" stop-color="#6A5ACD" />
-      <stop offset="100%" stop-color="#13ADC7" />
-    </linearGradient>
-  </defs>
-  <path d="M0,80 C250,105 750,0 1000,70 L1000,120 L0,120Z" fill="url(#g1)"/>
-</svg>
+<p align="center">
+  <img src="https://raw.githubusercontent.com/octocat/Spoon-Knife/master/banner.svg" alt="Demo Banner" width="90%" />
+</p>
 
 <!-- Animated Name Banner (using readme-typing-svg, which works for everyone) -->
 <p align="center">
