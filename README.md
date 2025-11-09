@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=35&duration=3500&pause=1100&color=E0007A&center=true&vCenter=true&width=650&lines=Priyanka+Asthana;AI+Engineer+%7C+Fullstack+Developer" alt="Priyanka Asthana Animated Typing" width="100%" />
+  <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=35&duration=3500&pause=1100&color=E0007A&center=true&vCenter=true&width=650&lines=Priyanka+Asthana;AIEngineer+%7C+FullstackDeveloper" alt="Priyanka Asthana Animated Typing" width="100%" />
 </p>
 
 <p align="center">
